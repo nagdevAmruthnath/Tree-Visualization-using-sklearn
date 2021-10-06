@@ -1,2 +1,2 @@
 # Tree-Visualization-using-sklearn
-Visualizing trees using sklearn package
+This repo contains jupyter notebook to visualize trees using matplotlib and sklearn
